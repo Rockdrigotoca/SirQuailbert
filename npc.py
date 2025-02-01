@@ -5,18 +5,11 @@ from collections import defaultdict
 import asyncio
 import json
 
-# Load configuration file
-CONFIG_FILE = "config.json"
+# Load Discord bot token from environment variable
+DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
+if not DISCORD_BOT_TOKEN:
+    raise ValueError("DISCORD_BOT_TOKEN environment variable is not set.")
 
-def load_config():
-    try:
-        with open(CONFIG_FILE, "r") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        return {}
-
-config = load_config()
-DISCORD_BOT_TOKEN = config.get("DISCORD_BOT_TOKEN")
 
 # Set up the bot
 intents = discord.Intents.default()
