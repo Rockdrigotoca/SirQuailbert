@@ -1,0 +1,227 @@
+[
+    {
+        "keywords": [
+            "quail",
+            "eggs"
+        ],
+        "answer": "Quails can lay up to 300 eggs per year! They are truly prolific layers."
+    },
+    {
+        "keywords": [
+            "shrubbery",
+            "old english"
+        ],
+        "answer": "The word 'shrubbery' originates from Old English 'scrubb,' meaning bush or small tree."
+    },
+    {
+        "keywords": [
+            "monty python",
+            "knights"        ],
+        "answer": "Ah, Monty Python! The knights who say 'Ni!' famously demanded a shrubbery in their legendary sketch."
+    },
+    {
+        "keywords": [
+            "rarity",
+            "status",
+            "collection"
+        ],
+        "answer": "Ah, great question! We are currently a Limited Collection in Upland with a 1.6x multiplier!"
+    },
+    {
+        "keywords": [
+            "neighborhood",
+            "ratings"
+        ],
+        "answer": "Interesting! To find out more about it visit the leaderboard here: https://public.tableau.com/views/AdvancedUplandCollectionRatings/StandardCollectionRatings?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "metaverse"
+        ],
+        "answer": "Upland is a blockchain-based metaverse where players can buy, sell, and trade virtual properties mapped to the real world."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "collections"
+        ],
+        "answer": "Collections in Upland are groups of properties that players can complete to earn boosted earnings and other rewards."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "UPX"
+        ],
+        "answer": "UPX is the in-game currency used in Upland for transactions such as buying properties and participating in activities."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "treasure hunts"
+        ],
+        "answer": "Treasure hunts in Upland are timed events where players search for hidden treasures to win UPX or other prizes."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "blockchain"
+        ],
+        "answer": "Upland operates on the EOS blockchain, ensuring transparency and ownership security for all players."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "properties"
+        ],
+        "answer": "Players in Upland can own virtual properties linked to real-world addresses, which generate passive income over time."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "leveling up"
+        ],
+        "answer": "To level up in Upland, players need to increase their net worth by acquiring properties and completing collections."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "node"
+        ],
+        "answer": "A node in Upland is a player-organized community focused on developing and enhancing specific neighborhoods or areas."
+    },
+    {
+        "keywords": [
+            "Upland",
+            "metaventures"
+        ],
+        "answer": "MetaVentures in Upland are player-run businesses that allow users to sell custom assets, Legits, and other items."
+    },
+    {
+        "keywords": [
+            "Third",
+            "party"
+        ],
+        "answer": [
+            "MyUplandInfo at 7330 Stockdale Hwy Apt 6",
+            "SUPX at 7330 Stockdale Hwy Apt 8",
+            "The Real Node LA at 7330 Stockdale Hwy Apt 9",
+            "Upxland at 7330 Stockdale Hwy Apt 10",
+            "Spark Quest at 7330 Stockdale Hwy Apt 16",
+            "Upxplorer at 103 Portales Real"
+        ]
+    },
+    {
+        "keywords": [
+            "block",
+            "explorer",
+            "shops"
+        ],
+        "answer": [
+            "Q-BE's at 801 Deseret Way",
+            "Bhagi BE Shop at 7008 Retriever Ct",
+            "Eclectic BE Collections at 6601 Quailwood Dr",
+            "Husky BE's at 700 Deseret Way",
+            "BE's Tortas Don Polo at 608 Quailridge Rd"
+        ]
+    },
+    {
+        "keywords": [
+            "variety",
+            "stores"
+        ],
+        "answer": [
+            "Bhagi Variety Legits at 7004 Retriever Ct",
+            "Quailwood Variety Vault at 7404 Stockdale Hwy"
+        ]
+    },
+    {
+        "keywords": [
+            "racing",
+            "stores"
+        ],
+        "answer": [
+            "Eclectic Racing Collections at 401 Quail Run Ct",
+            "Bhagi Racing Legits at 7000 Retriever Ct",
+            "Quailwood Pit Stop at 123 Stockdale Cir",
+            "URL Corp Office BF at 704 N el Río Dr"
+        ]
+    },
+    {
+        "keywords": [
+            "soccer",
+            "stores"
+        ],
+        "answer": [
+            "FC Quailwood United at 701 Deseret Way",
+            "Bhagi Football Legits at 7601 Branding Iron Ct",
+            "Fantasy League Tavern at 7204 Saddleback Dr",
+            "Eclectic Soccer Collections at 6924 Quailwood Dr",
+            "Mueller's Soccer Symphony at 608 N el Río Dr",
+            "Sparktanos Shop by Mercador at 507 Goshawk Ct"
+        ]
+    },
+    {
+        "keywords": [
+            "NFL",
+            "stores"
+        ],
+        "answer": [
+            "Quailwood Stadium Style at 104 Portales Real"
+        ]
+    },
+    {
+        "keywords": [
+            "vehicle",
+            "stores"
+        ],
+        "answer": [
+            "Quailwood Motors at 600 Coffee Rd",
+            "Talls Cars of Quailwood at 8001 Westfield Rd",
+            "Quailwood Motors III at 201 Quailridge Rd"
+        ]
+    },
+    {
+        "keywords": [
+            "structure",
+            "ornaments",
+            "stores"
+        ],
+        "answer": [
+            "Quailwood Ornaments at 800 Quailridge Rd",
+            "Quailwood Ornaments I at 7108 Saddleback Dr"
+        ]
+    },
+    {
+        "keywords": [
+            "map",
+            "asset",
+            "stores"
+        ],
+        "answer": [
+            "Quailwood Map Asset Showroom at 7012 Saddleback Dr",
+            "WhiteTiger DIY Bakersfield at 7112 Saddleback Dr",
+            "Ms. T's Treasures at 7100 Saddleback Dr",
+            "Eclectic Collections in Quailwood at 7412 Saddleback Dr"
+        ]
+    },
+    {
+        "keywords": [
+            "race",
+            "tracks"
+        ],
+        "answer": [
+            "Quailwood Run at 7605 Westfield Rd",
+            "Quail Motor League at 601 Quail Park Ct",
+            "Quail Kart at 7605 Wide Loop Rd"
+        ]
+    },
+    {
+        "keywords": [
+            "moat",
+            "medieval",
+            "castle"
+        ],
+        "answer": "Moats were used in medieval times as a defense mechanism, protecting castles from invaders."
+    }
+]
