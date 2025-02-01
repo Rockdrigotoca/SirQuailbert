@@ -16,7 +16,7 @@ def load_config():
         return {}
 
 config = load_config()
-DISCORD_BOT_TOKEN = config.get("DISCORD_BOT_TOKEN", "YOUR_DISCORD_BOT_TOKEN")
+DISCORD_BOT_TOKEN = config.get("DISCORD_BOT_TOKEN")
 
 # Set up the bot
 intents = discord.Intents.default()
