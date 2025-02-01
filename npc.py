@@ -5,6 +5,19 @@ from collections import defaultdict
 import asyncio
 import json
 
+# Load configuration file
+CONFIG_FILE = "config.json"
+
+def load_config():
+    try:
+        with open(CONFIG_FILE, "r") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {}
+
+config = load_config()
+DISCORD_BOT_TOKEN = config.get("DISCORD_BOT_TOKEN", "YOUR_DISCORD_BOT_TOKEN")
+
 # Set up the bot
 intents = discord.Intents.default()
 intents.messages = True
@@ -159,4 +172,4 @@ async def on_ready():
 
 # Run the bot
 if __name__ == "__main__":
-    bot.run("MTMzMzYwMDQzNzk5OTM3MDI0MA.GbuWSf.kuPboKDVWDqVmsR9qSngkL6HfQ4G0fwV-fAdXw")
+    bot.run("DISCORD_BOT_TOKEN")
