@@ -4,6 +4,7 @@ import random
 from collections import defaultdict
 import asyncio
 import json
+import os
 
 # Load Discord bot token from environment variable
 DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
