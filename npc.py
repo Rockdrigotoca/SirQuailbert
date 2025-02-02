@@ -5,12 +5,13 @@ from collections import defaultdict
 import asyncio
 import json
 import os
+from dotenv import load_dotenv
 
-# Load Discord bot token from environment variable
-DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
-if not DISCORD_BOT_TOKEN:
-    raise ValueError("DISCORD_BOT_TOKEN environment variable is not set.")
+# Load environment variables (for local testing)
+load_dotenv()
 
+# Fetch bot token from environment variables (GitHub Secrets or .env file)
+BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 
 # Set up the bot
 intents = discord.Intents.default()
